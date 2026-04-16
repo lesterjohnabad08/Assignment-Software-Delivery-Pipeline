@@ -1,2 +1,2 @@
 # java-project
-##edited para mag auto trigger
+##updated stack

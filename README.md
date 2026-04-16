@@ -4,3 +4,4 @@ all done??
 
 test after loading the stack
 nailagay ang mahaba
+##nailagay ang deleted

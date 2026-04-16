@@ -1,7 +1,2 @@
 # java-project
-Lester John Abad
-all done??
-
-test after loading the stack
-nailagay ang mahaba
-##nailagay ang deleted
+##edited para mag auto trigger
